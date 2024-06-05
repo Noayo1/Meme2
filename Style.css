@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+h1{
+    text-transform: uppercase;
+
+}
+.Dragon
+{
+    font-family: "Roboto Slab", serif;
+    text-align: center;
+    margin-top: 100px;
+
+    
+}
+.dragon{
+    border: 5px solid white;
+    
+}
